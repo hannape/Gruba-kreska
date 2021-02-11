@@ -3,5 +3,5 @@ Zebranie wszystkiego porządnie.
 
 1. Poprawienie danych
 2. Wczytanie danych
-Main wczytanie i reprezentacje 
+3. Main wczytanie i reprezentacje 
 ...
